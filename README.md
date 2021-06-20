@@ -1,7 +1,7 @@
 # Hidden-Markov-Model-Trading-Algorithm
-Designed and created with my team for Queen's QUANTT club in QuantConnect
+Designed and created a Hidden Markov Model trading algorithm for Queen's QUANTT club using QuantConnect.
 
 Contributors:
-Alan Pan,
+Kyle Singer,
 Francesco Marrato,
 Jack Wotherspoon
